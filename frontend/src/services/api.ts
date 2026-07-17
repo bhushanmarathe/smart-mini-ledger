@@ -2,7 +2,7 @@ import axios from "axios";
 import type { CreateTransaction } from "../types/transaction";
 
 export const api = axios.create({
-  baseURL: "http://localhost:3000",
+  baseURL: "https://smart-mini-ledger-jdmj.onrender.com",
 });
 
 // export const api = axios.create({
