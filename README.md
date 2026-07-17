@@ -389,7 +389,7 @@ Potential future improvements include:
 
 # 👤 Author
 
-**Your Name** BHUSHAN VILAS MARATHE
+**BHUSHAN VILAS MARATHE**
 
 GitHub: https://github.com/bhushanmarathe
 
