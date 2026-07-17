@@ -301,20 +301,6 @@ VITE_API_URL=https://smart-mini-ledger-jdmj.onrender.com
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Dashboard
-- Charts
-- Smart Insights
-- Savings Simulator
-- Transaction Management
-- Filters
-- CSV Export
-
----
-
 # 🤖 AI Tools Used
 
 During development I intentionally used AI to accelerate repetitive development while applying my own engineering judgment to design, debugging, and refinement.
